@@ -1,0 +1,30 @@
+[
+  {
+    "Course": "Btech-",
+    "Branch": "Information Technology",
+    "College": "ABES Engineering College",
+    "startDate": "Sept 2022-",
+    "endDate": "Sept 2025",
+    "location": "Ghaziabad",
+    "Percentage":74,
+    "imageSrc": "company/Abes.jpg"
+  },
+  {
+    "Course": "Diploma-",
+    "Branch": "Information Technology",
+    "College": "CMS Government girls Polytechnic",
+    "startDate": "Aug 2019-",
+    "endDate": "July 2022",
+    "location": "Meerut",
+    "Percentage":82.4,
+    "imageSrc": "company/CMS.jpeg"
+  },
+  {
+    "Course": "10-",
+    "Branch": "CBSE",
+    "College": "JS Academy",
+    "location": "Meerut",
+    "Percentage":82,
+    "imageSrc": "company/JS.jpeg"
+  }
+]
